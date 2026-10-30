@@ -1,0 +1,1001 @@
+﻿Dish_ID,Dish_Name,Cuisine,Price,Rating,Veg_NonVeg
+1,Butter Chicken,Chinese,327,4.4,Non-Veg
+2,Burger,Chinese,131,3.7,Veg
+3,Noodles,Indian,451,4.2,Veg
+4,Rasgulla,Indian,108,4,Veg
+5,Idli,Indian,380,3.9,Veg
+6,Gulab Jamun,Indian,391,4,Veg
+7,Soup,Chinese,289,4.2,Veg
+8,Butter Chicken,Chinese,404,4.2,Non-Veg
+9,Chowmein,Chinese,267,4.2,Veg
+10,Biryani,Italian,346,3.9,Non-Veg
+11,Soup,Chinese,260,3.8,Veg
+12,Pasta,Italian,113,4.9,Veg
+13,Pasta,American,453,4.6,Veg
+14,Sandwich,Indian,274,4,Veg
+15,Butter Chicken,Indian,382,3.7,Non-Veg
+16,Soup,Italian,326,3.6,Veg
+17,Paneer Tikka,Indian,437,3.9,Veg
+18,Pasta,American,429,5,Veg
+19,Pizza,Indian,344,4.5,Veg
+20,Idli,Chinese,493,3.8,Veg
+21,Noodles,Italian,433,4.1,Veg
+22,Gulab Jamun,Italian,271,4.2,Veg
+23,Dosa,Chinese,239,3.9,Veg
+24,Butter Chicken,Chinese,336,4.4,Non-Veg
+25,Gulab Jamun,Chinese,247,4.7,Veg
+26,Spring Roll,Chinese,151,3.9,Veg
+27,Rasgulla,Italian,400,4.4,Veg
+28,Chowmein,Italian,449,4,Veg
+29,Ice Cream,Indian,390,3.6,Veg
+30,Rasgulla,Italian,463,4.3,Veg
+31,Noodles,Indian,136,4.3,Veg
+32,Gulab Jamun,Italian,490,4.9,Veg
+33,Biryani,Italian,473,4.1,Non-Veg
+34,Paneer Tikka,Chinese,119,4.6,Veg
+35,Chowmein,Indian,203,4.3,Veg
+36,Spring Roll,American,499,4.6,Veg
+37,Spring Roll,American,364,4.3,Veg
+38,Rasgulla,Italian,296,3.7,Veg
+39,Pasta,Indian,123,4.6,Veg
+40,Soup,Indian,324,4.7,Veg
+41,Pizza,Chinese,432,4.2,Veg
+42,Rasgulla,American,287,3.8,Veg
+43,Paneer Tikka,Italian,344,3.8,Veg
+44,Burger,Indian,215,4.6,Veg
+45,Sandwich,Indian,169,4.2,Veg
+46,Gulab Jamun,Italian,485,4.9,Veg
+47,Samosa,Chinese,435,4.4,Veg
+48,Noodles,Italian,429,4,Veg
+49,Samosa,Indian,382,4.4,Veg
+50,Butter Chicken,American,479,5,Non-Veg
+51,Biryani,Italian,229,4.4,Non-Veg
+52,Rasgulla,Italian,110,4.9,Veg
+53,Gulab Jamun,American,108,3.6,Veg
+54,Sandwich,Italian,402,4,Veg
+55,Idli,Chinese,198,4.6,Veg
+56,Sandwich,Indian,370,3.7,Veg
+57,Paneer Tikka,Chinese,290,4.9,Veg
+58,Butter Chicken,Chinese,392,4.6,Non-Veg
+59,Rasgulla,Italian,293,4,Veg
+60,Samosa,Indian,401,5,Veg
+61,Burger,Chinese,315,4.5,Veg
+62,Soup,Indian,159,4.2,Veg
+63,Pasta,Chinese,289,4.4,Veg
+64,Idli,Indian,473,4.8,Veg
+65,Gulab Jamun,American,424,4.5,Veg
+66,Biryani,Italian,377,4.9,Non-Veg
+67,Biryani,Italian,284,4.2,Non-Veg
+68,Samosa,American,302,4.1,Veg
+69,Biryani,Indian,315,4,Non-Veg
+70,Fried Rice,Chinese,263,3.8,Veg
+71,Butter Chicken,Indian,338,3.9,Non-Veg
+72,Fried Rice,Italian,422,4.5,Veg
+73,Salad,American,464,3.6,Veg
+74,Brownie,American,207,4.2,Veg
+75,Spring Roll,American,310,3.5,Veg
+76,Butter Chicken,Chinese,173,4.4,Non-Veg
+77,Paneer Tikka,Italian,266,4.1,Veg
+78,Rasgulla,Indian,273,3.8,Veg
+79,Pizza,Italian,421,4.5,Veg
+80,Noodles,Italian,250,4.4,Veg
+81,Idli,Chinese,356,4.8,Veg
+82,Butter Chicken,Indian,304,4.2,Non-Veg
+83,Gulab Jamun,American,478,5,Veg
+84,Fried Rice,Chinese,248,3.8,Veg
+85,Chowmein,American,178,4,Veg
+86,Butter Chicken,Italian,441,3.7,Non-Veg
+87,Rasgulla,Chinese,169,4.7,Veg
+88,Pizza,Chinese,346,4.1,Veg
+89,Spring Roll,Indian,494,3.6,Veg
+90,Chowmein,Italian,470,4.6,Veg
+91,Sandwich,Italian,435,4.2,Veg
+92,Chowmein,Indian,468,4.6,Veg
+93,Idli,American,352,5,Veg
+94,Ice Cream,American,169,3.8,Veg
+95,Idli,Italian,309,4.6,Veg
+96,Pasta,Italian,487,3.5,Veg
+97,Idli,Chinese,192,3.7,Veg
+98,Dosa,Indian,474,4.5,Veg
+99,Fried Rice,Italian,317,3.7,Veg
+100,Samosa,Chinese,156,4.6,Veg
+101,Dosa,American,103,4.5,Veg
+102,Samosa,Indian,315,4.7,Veg
+103,Soup,Italian,399,3.9,Veg
+104,Ice Cream,Indian,281,4.2,Veg
+105,Paneer Tikka,Italian,135,4.4,Veg
+106,Soup,Indian,161,4.9,Veg
+107,Burger,Chinese,280,3.7,Veg
+108,Soup,Chinese,477,4.3,Veg
+109,Soup,Indian,385,3.9,Veg
+110,Pasta,American,432,3.9,Veg
+111,Paneer Tikka,American,350,4.5,Veg
+112,Pizza,Chinese,453,4.1,Veg
+113,Chowmein,Italian,170,5,Veg
+114,Noodles,Italian,165,4.4,Veg
+115,Burger,Italian,466,4.5,Veg
+116,Pasta,Indian,289,3.7,Veg
+117,Pizza,Chinese,370,3.6,Veg
+118,Chowmein,Indian,291,4.5,Veg
+119,Fried Rice,Italian,181,3.6,Veg
+120,Idli,Italian,287,3.5,Veg
+121,Pizza,Indian,403,3.6,Veg
+122,Gulab Jamun,American,166,4.2,Veg
+123,Samosa,American,259,5,Veg
+124,Chowmein,Chinese,361,5,Veg
+125,Salad,American,160,4.6,Veg
+126,Chowmein,Chinese,113,4.1,Veg
+127,Brownie,Chinese,315,4.2,Veg
+128,Soup,American,399,5,Veg
+129,Samosa,Chinese,406,5,Veg
+130,Samosa,American,179,4.6,Veg
+131,Dosa,Indian,497,4.6,Veg
+132,Salad,American,198,4.2,Veg
+133,Noodles,Chinese,276,4.5,Veg
+134,Spring Roll,Chinese,202,5,Veg
+135,Ice Cream,Italian,414,4.3,Veg
+136,Noodles,Chinese,177,4.8,Veg
+137,Brownie,Indian,434,3.7,Veg
+138,Spring Roll,Indian,241,4.2,Veg
+139,Soup,Chinese,452,4.7,Veg
+140,Chowmein,American,279,4.4,Veg
+141,Brownie,Indian,326,4.9,Veg
+142,Salad,Indian,357,3.6,Veg
+143,Butter Chicken,American,209,4.9,Non-Veg
+144,Chowmein,Chinese,259,3.6,Veg
+145,Samosa,American,166,4,Veg
+146,Ice Cream,Italian,166,4,Veg
+147,Ice Cream,Italian,343,3.8,Veg
+148,Rasgulla,Chinese,288,4.5,Veg
+149,Dosa,Italian,458,4.2,Veg
+150,Burger,American,191,3.9,Veg
+151,Soup,American,496,4.4,Veg
+152,Fried Rice,Italian,155,4.6,Veg
+153,Burger,Italian,228,3.6,Veg
+154,Idli,Chinese,288,3.9,Veg
+155,Fried Rice,American,161,4.4,Veg
+156,Noodles,American,220,4.3,Veg
+157,Pizza,American,242,4.5,Veg
+158,Biryani,Chinese,213,4.2,Non-Veg
+159,Sandwich,Italian,284,4.5,Veg
+160,Pasta,Italian,494,3.7,Veg
+161,Biryani,American,297,3.7,Non-Veg
+162,Soup,Chinese,356,3.8,Veg
+163,Noodles,Italian,481,4.9,Veg
+164,Rasgulla,Indian,185,4.1,Veg
+165,Soup,American,254,3.6,Veg
+166,Dosa,Italian,264,4.3,Veg
+167,Brownie,Indian,172,3.8,Veg
+168,Pizza,American,388,4.2,Veg
+169,Chowmein,Italian,244,3.9,Veg
+170,Brownie,Chinese,395,3.7,Veg
+171,Noodles,Indian,268,4.5,Veg
+172,Soup,Indian,203,4.2,Veg
+173,Spring Roll,Italian,258,4.3,Veg
+174,Butter Chicken,Indian,214,4.8,Non-Veg
+175,Sandwich,Indian,463,3.5,Veg
+176,Butter Chicken,Italian,167,3.8,Non-Veg
+177,Fried Rice,Indian,217,4,Veg
+178,Fried Rice,Indian,202,4.9,Veg
+179,Burger,Chinese,355,3.9,Veg
+180,Sandwich,Chinese,120,3.7,Veg
+181,Paneer Tikka,Chinese,402,3.7,Veg
+182,Spring Roll,American,416,4.8,Veg
+183,Dosa,Italian,492,4,Veg
+184,Noodles,Indian,271,4.3,Veg
+185,Dosa,Chinese,120,3.7,Veg
+186,Pasta,Chinese,299,4.4,Veg
+187,Butter Chicken,Indian,325,3.8,Non-Veg
+188,Pasta,American,278,3.9,Veg
+189,Idli,Indian,189,4.3,Veg
+190,Rasgulla,Italian,184,4.9,Veg
+191,Gulab Jamun,Indian,424,5,Veg
+192,Soup,Italian,380,4.7,Veg
+193,Dosa,Indian,286,4,Veg
+194,Soup,Italian,258,3.9,Veg
+195,Noodles,Indian,192,3.6,Veg
+196,Samosa,American,455,4.7,Veg
+197,Samosa,American,431,4.5,Veg
+198,Sandwich,Italian,189,4.9,Veg
+199,Noodles,Italian,157,4.3,Veg
+200,Biryani,American,380,3.6,Non-Veg
+201,Ice Cream,Chinese,148,4.2,Veg
+202,Fried Rice,Chinese,305,3.9,Veg
+203,Brownie,Indian,235,4.1,Veg
+204,Samosa,American,497,4.9,Veg
+205,Biryani,American,447,4.5,Non-Veg
+206,Noodles,Indian,468,3.6,Veg
+207,Biryani,Indian,130,3.8,Non-Veg
+208,Fried Rice,Chinese,367,4.8,Veg
+209,Idli,Chinese,428,4,Veg
+210,Brownie,American,390,3.5,Veg
+211,Chowmein,Chinese,184,3.5,Veg
+212,Biryani,Italian,337,4.8,Non-Veg
+213,Gulab Jamun,Italian,298,4.3,Veg
+214,Sandwich,Indian,370,4.5,Veg
+215,Biryani,American,339,3.9,Non-Veg
+216,Fried Rice,American,120,3.6,Veg
+217,Rasgulla,Indian,298,3.8,Veg
+218,Biryani,Chinese,293,4.9,Non-Veg
+219,Butter Chicken,American,424,4.2,Non-Veg
+220,Rasgulla,American,257,4.9,Veg
+221,Samosa,Chinese,242,3.7,Veg
+222,Ice Cream,Italian,126,4,Veg
+223,Rasgulla,Chinese,453,3.9,Veg
+224,Sandwich,Chinese,316,4.2,Veg
+225,Samosa,Indian,331,4.5,Veg
+226,Pizza,Italian,291,4.3,Veg
+227,Salad,Chinese,399,4.1,Veg
+228,Butter Chicken,Italian,182,3.8,Non-Veg
+229,Chowmein,Chinese,262,4.6,Veg
+230,Soup,Italian,472,4.4,Veg
+231,Salad,Chinese,211,3.7,Veg
+232,Samosa,Chinese,403,3.9,Veg
+233,Chowmein,Indian,127,4.2,Veg
+234,Ice Cream,Indian,477,3.8,Veg
+235,Pizza,Indian,295,3.9,Veg
+236,Chowmein,Italian,468,4.6,Veg
+237,Paneer Tikka,Italian,254,4.9,Veg
+238,Pizza,Indian,287,4.3,Veg
+239,Spring Roll,Chinese,411,4.6,Veg
+240,Dosa,Chinese,364,3.8,Veg
+241,Spring Roll,American,465,4.4,Veg
+242,Biryani,American,370,4.6,Non-Veg
+243,Dosa,American,473,3.7,Veg
+244,Dosa,Indian,127,4.7,Veg
+245,Paneer Tikka,Indian,217,5,Veg
+246,Burger,Indian,338,3.9,Veg
+247,Rasgulla,Chinese,421,3.6,Veg
+248,Pizza,Indian,206,4.5,Veg
+249,Idli,Italian,222,4.1,Veg
+250,Biryani,American,114,3.7,Non-Veg
+251,Burger,Indian,387,4,Veg
+252,Chowmein,Indian,447,4.9,Veg
+253,Butter Chicken,Italian,311,4,Non-Veg
+254,Butter Chicken,Indian,175,3.7,Non-Veg
+255,Pasta,Italian,442,4.8,Veg
+256,Gulab Jamun,Indian,324,3.6,Veg
+257,Ice Cream,Italian,253,4.4,Veg
+258,Burger,Chinese,311,3.6,Veg
+259,Butter Chicken,Italian,161,4.4,Non-Veg
+260,Pasta,Indian,165,3.7,Veg
+261,Soup,Chinese,189,4.9,Veg
+262,Gulab Jamun,Chinese,299,4.4,Veg
+263,Salad,American,164,3.6,Veg
+264,Butter Chicken,Italian,323,4.3,Non-Veg
+265,Gulab Jamun,Indian,140,4.9,Veg
+266,Fried Rice,American,453,4.3,Veg
+267,Chowmein,Indian,354,3.9,Veg
+268,Butter Chicken,American,462,4.2,Non-Veg
+269,Salad,Indian,284,4.2,Veg
+270,Ice Cream,American,442,3.6,Veg
+271,Pizza,American,136,3.7,Veg
+272,Brownie,Indian,251,4.1,Veg
+273,Noodles,Indian,164,4.8,Veg
+274,Samosa,American,296,4.2,Veg
+275,Samosa,American,497,4.9,Veg
+276,Soup,Italian,290,4.3,Veg
+277,Sandwich,American,322,3.6,Veg
+278,Pizza,Indian,399,3.6,Veg
+279,Dosa,Indian,413,4.9,Veg
+280,Burger,Chinese,394,4.8,Veg
+281,Fried Rice,Indian,224,4.1,Veg
+282,Salad,Chinese,460,3.5,Veg
+283,Brownie,Indian,351,5,Veg
+284,Biryani,Chinese,223,4.5,Non-Veg
+285,Butter Chicken,Chinese,342,4.7,Non-Veg
+286,Butter Chicken,Indian,199,4.8,Non-Veg
+287,Sandwich,Indian,410,5,Veg
+288,Noodles,Italian,461,3.6,Veg
+289,Pizza,Italian,189,4.9,Veg
+290,Butter Chicken,American,427,4.8,Non-Veg
+291,Rasgulla,Chinese,164,4,Veg
+292,Samosa,Indian,312,4.8,Veg
+293,Fried Rice,Indian,466,4.2,Veg
+294,Ice Cream,Indian,314,4.2,Veg
+295,Burger,Chinese,384,4.5,Veg
+296,Ice Cream,Chinese,106,4.6,Veg
+297,Burger,American,416,4.2,Veg
+298,Fried Rice,American,216,4,Veg
+299,Rasgulla,Italian,353,4.2,Veg
+300,Salad,American,383,4.7,Veg
+301,Gulab Jamun,Indian,256,4.7,Veg
+302,Brownie,Italian,106,4.7,Veg
+303,Samosa,Indian,122,3.7,Veg
+304,Pizza,American,433,4.5,Veg
+305,Brownie,American,365,4.6,Veg
+306,Ice Cream,American,349,4,Veg
+307,Brownie,American,115,4.9,Veg
+308,Sandwich,Chinese,493,4.7,Veg
+309,Burger,Indian,335,3.8,Veg
+310,Chowmein,Chinese,243,4.5,Veg
+311,Ice Cream,American,306,4.6,Veg
+312,Pizza,Chinese,429,4.6,Veg
+313,Pasta,Indian,193,4.2,Veg
+314,Ice Cream,Chinese,386,4.5,Veg
+315,Fried Rice,Italian,158,5,Veg
+316,Sandwich,American,223,3.5,Veg
+317,Pizza,Indian,384,4.7,Veg
+318,Pasta,Italian,491,4.3,Veg
+319,Idli,Indian,347,3.9,Veg
+320,Paneer Tikka,Indian,473,4.6,Veg
+321,Spring Roll,Chinese,187,3.9,Veg
+322,Dosa,Indian,246,4.6,Veg
+323,Butter Chicken,American,366,4.7,Non-Veg
+324,Paneer Tikka,American,465,4.9,Veg
+325,Chowmein,Indian,448,4.8,Veg
+326,Noodles,American,437,4.4,Veg
+327,Spring Roll,Indian,453,4,Veg
+328,Brownie,Chinese,496,4.1,Veg
+329,Dosa,American,181,3.8,Veg
+330,Soup,Chinese,333,4.8,Veg
+331,Fried Rice,Italian,376,3.7,Veg
+332,Fried Rice,Italian,258,4.8,Veg
+333,Ice Cream,Indian,105,3.6,Veg
+334,Spring Roll,Italian,203,4.8,Veg
+335,Butter Chicken,Indian,290,3.9,Non-Veg
+336,Noodles,Chinese,294,4.3,Veg
+337,Salad,American,222,4.8,Veg
+338,Brownie,Indian,352,3.8,Veg
+339,Sandwich,Italian,435,4.7,Veg
+340,Ice Cream,Indian,302,4.6,Veg
+341,Idli,Indian,328,5,Veg
+342,Rasgulla,Italian,267,3.7,Veg
+343,Sandwich,Chinese,424,4.8,Veg
+344,Pizza,Chinese,451,4,Veg
+345,Sandwich,Italian,480,3.8,Veg
+346,Spring Roll,Italian,452,4.8,Veg
+347,Noodles,Italian,124,4.8,Veg
+348,Brownie,Chinese,296,3.7,Veg
+349,Chowmein,Italian,358,4.4,Veg
+350,Pizza,American,325,3.7,Veg
+351,Sandwich,Indian,328,4.9,Veg
+352,Pizza,Indian,166,3.8,Veg
+353,Noodles,Italian,403,3.7,Veg
+354,Butter Chicken,American,209,3.5,Non-Veg
+355,Chowmein,American,273,3.9,Veg
+356,Spring Roll,Indian,235,4.4,Veg
+357,Samosa,Chinese,394,4.4,Veg
+358,Idli,American,175,3.7,Veg
+359,Fried Rice,Chinese,144,4.2,Veg
+360,Gulab Jamun,Indian,245,3.7,Veg
+361,Pasta,Indian,477,3.9,Veg
+362,Burger,Chinese,457,4.6,Veg
+363,Biryani,American,405,4.5,Non-Veg
+364,Rasgulla,Italian,227,4.8,Veg
+365,Chowmein,American,280,4.1,Veg
+366,Samosa,Italian,267,3.7,Veg
+367,Noodles,Chinese,278,3.9,Veg
+368,Paneer Tikka,Italian,173,3.8,Veg
+369,Idli,Indian,442,3.5,Veg
+370,Paneer Tikka,American,302,4,Veg
+371,Pizza,Italian,320,3.5,Veg
+372,Salad,Chinese,106,3.8,Veg
+373,Noodles,Indian,299,5,Veg
+374,Idli,Chinese,349,3.9,Veg
+375,Butter Chicken,Chinese,213,3.5,Non-Veg
+376,Brownie,Italian,335,3.7,Veg
+377,Gulab Jamun,Chinese,439,3.8,Veg
+378,Burger,American,192,4.1,Veg
+379,Paneer Tikka,Italian,424,4.2,Veg
+380,Spring Roll,Italian,482,3.5,Veg
+381,Soup,American,311,4.9,Veg
+382,Gulab Jamun,American,153,3.6,Veg
+383,Brownie,American,177,4.9,Veg
+384,Gulab Jamun,Italian,408,4.6,Veg
+385,Idli,American,144,4,Veg
+386,Brownie,American,351,4.5,Veg
+387,Soup,American,336,3.8,Veg
+388,Fried Rice,Italian,355,4.7,Veg
+389,Fried Rice,Indian,353,3.9,Veg
+390,Fried Rice,Italian,251,3.6,Veg
+391,Salad,American,165,4.2,Veg
+392,Rasgulla,Indian,128,4.4,Veg
+393,Pasta,Indian,198,3.9,Veg
+394,Biryani,Italian,111,4.3,Non-Veg
+395,Noodles,Italian,111,4.7,Veg
+396,Chowmein,Chinese,464,4.1,Veg
+397,Samosa,Indian,445,3.7,Veg
+398,Samosa,American,266,4.4,Veg
+399,Sandwich,American,214,4.1,Veg
+400,Sandwich,American,364,3.9,Veg
+401,Samosa,American,302,3.5,Veg
+402,Paneer Tikka,American,495,4.1,Veg
+403,Gulab Jamun,Italian,286,3.8,Veg
+404,Rasgulla,Indian,201,3.5,Veg
+405,Dosa,American,441,3.6,Veg
+406,Fried Rice,Italian,217,4,Veg
+407,Burger,American,301,3.7,Veg
+408,Fried Rice,American,341,4.5,Veg
+409,Butter Chicken,Chinese,422,3.5,Non-Veg
+410,Samosa,American,255,4.9,Veg
+411,Pizza,Italian,100,3.7,Veg
+412,Pasta,Italian,126,4.3,Veg
+413,Brownie,Chinese,288,4.6,Veg
+414,Pasta,Italian,323,4.5,Veg
+415,Salad,Chinese,387,4.4,Veg
+416,Salad,Indian,274,3.7,Veg
+417,Soup,Indian,445,4.4,Veg
+418,Sandwich,Indian,331,4.1,Veg
+419,Fried Rice,Indian,151,4,Veg
+420,Butter Chicken,Chinese,209,3.8,Non-Veg
+421,Biryani,Indian,141,4.5,Non-Veg
+422,Brownie,Indian,174,3.9,Veg
+423,Pasta,Chinese,405,3.5,Veg
+424,Salad,Indian,401,4.7,Veg
+425,Chowmein,Chinese,450,3.6,Veg
+426,Rasgulla,American,252,5,Veg
+427,Rasgulla,Indian,248,4.1,Veg
+428,Pasta,Italian,306,4.1,Veg
+429,Idli,Chinese,312,4.8,Veg
+430,Dosa,Indian,108,3.9,Veg
+431,Rasgulla,Chinese,423,5,Veg
+432,Chowmein,American,336,5,Veg
+433,Idli,Chinese,394,3.9,Veg
+434,Pasta,Indian,317,4.9,Veg
+435,Brownie,Indian,428,4.1,Veg
+436,Spring Roll,American,496,3.9,Veg
+437,Butter Chicken,American,186,3.7,Non-Veg
+438,Brownie,Indian,349,4.2,Veg
+439,Gulab Jamun,American,415,3.9,Veg
+440,Brownie,Indian,106,3.6,Veg
+441,Noodles,Italian,342,4,Veg
+442,Samosa,Indian,216,3.5,Veg
+443,Sandwich,American,477,4.1,Veg
+444,Pizza,Italian,351,4.7,Veg
+445,Sandwich,Chinese,149,3.8,Veg
+446,Soup,Indian,490,4.6,Veg
+447,Salad,American,351,4,Veg
+448,Spring Roll,Chinese,447,4.1,Veg
+449,Pizza,Indian,292,3.9,Veg
+450,Noodles,American,251,4.1,Veg
+451,Paneer Tikka,American,478,3.7,Veg
+452,Ice Cream,Chinese,147,4.2,Veg
+453,Chowmein,American,315,3.9,Veg
+454,Soup,American,414,3.9,Veg
+455,Ice Cream,American,431,4.9,Veg
+456,Samosa,Indian,342,4.1,Veg
+457,Butter Chicken,Indian,162,4.1,Non-Veg
+458,Gulab Jamun,American,364,3.6,Veg
+459,Brownie,Italian,325,4.4,Veg
+460,Samosa,Italian,111,4,Veg
+461,Gulab Jamun,American,477,4.3,Veg
+462,Dosa,Chinese,101,4.2,Veg
+463,Brownie,Chinese,230,4.5,Veg
+464,Salad,Italian,422,4.3,Veg
+465,Butter Chicken,Indian,168,4.1,Non-Veg
+466,Spring Roll,Italian,450,4.8,Veg
+467,Butter Chicken,Indian,220,4.6,Non-Veg
+468,Chowmein,Italian,123,4.7,Veg
+469,Pizza,Chinese,434,4.2,Veg
+470,Rasgulla,Chinese,255,3.6,Veg
+471,Noodles,Chinese,288,4.5,Veg
+472,Spring Roll,Chinese,403,3.5,Veg
+473,Salad,Indian,223,4.4,Veg
+474,Chowmein,Indian,321,3.8,Veg
+475,Idli,Italian,318,5,Veg
+476,Rasgulla,Indian,141,4.1,Veg
+477,Samosa,Chinese,205,3.5,Veg
+478,Noodles,Chinese,264,4.6,Veg
+479,Chowmein,Indian,141,4.5,Veg
+480,Pasta,Indian,131,4.8,Veg
+481,Idli,Indian,152,4.7,Veg
+482,Paneer Tikka,Indian,110,4.1,Veg
+483,Dosa,American,128,4.2,Veg
+484,Pizza,Indian,241,3.6,Veg
+485,Noodles,American,201,3.7,Veg
+486,Rasgulla,American,214,4.6,Veg
+487,Sandwich,Italian,423,3.6,Veg
+488,Fried Rice,American,283,3.6,Veg
+489,Brownie,Indian,151,3.7,Veg
+490,Paneer Tikka,Chinese,156,4.3,Veg
+491,Fried Rice,Indian,191,4.2,Veg
+492,Chowmein,Chinese,252,3.7,Veg
+493,Chowmein,Chinese,149,3.7,Veg
+494,Butter Chicken,Chinese,205,4.2,Non-Veg
+495,Soup,American,245,4.1,Veg
+496,Dosa,Italian,240,4.6,Veg
+497,Brownie,Chinese,485,4.5,Veg
+498,Fried Rice,American,183,3.5,Veg
+499,Brownie,Italian,450,3.6,Veg
+500,Fried Rice,American,230,4.5,Veg
+501,Soup,Italian,312,4.2,Veg
+502,Brownie,Chinese,187,3.8,Veg
+503,Dosa,Indian,445,3.6,Veg
+504,Noodles,Indian,267,4.9,Veg
+505,Brownie,American,428,4.2,Veg
+506,Rasgulla,Italian,129,3.7,Veg
+507,Butter Chicken,Italian,304,3.8,Non-Veg
+508,Pasta,Indian,421,4.5,Veg
+509,Fried Rice,Indian,291,4,Veg
+510,Salad,Chinese,379,4.4,Veg
+511,Noodles,American,235,4.2,Veg
+512,Chowmein,Italian,418,3.9,Veg
+513,Salad,Indian,182,3.7,Veg
+514,Ice Cream,Chinese,211,4.3,Veg
+515,Sandwich,Indian,491,5,Veg
+516,Spring Roll,American,493,4.5,Veg
+517,Rasgulla,Italian,349,4.6,Veg
+518,Dosa,Chinese,417,4.1,Veg
+519,Biryani,Indian,407,4.9,Non-Veg
+520,Brownie,Chinese,197,4.3,Veg
+521,Chowmein,Italian,234,4,Veg
+522,Burger,American,126,4.2,Veg
+523,Dosa,Italian,106,4.1,Veg
+524,Salad,Indian,477,4.1,Veg
+525,Burger,Chinese,254,4.8,Veg
+526,Idli,Italian,366,3.8,Veg
+527,Dosa,Indian,376,3.6,Veg
+528,Butter Chicken,American,197,4.3,Non-Veg
+529,Salad,Indian,159,4.4,Veg
+530,Brownie,Indian,498,4.6,Veg
+531,Pasta,Indian,214,3.9,Veg
+532,Samosa,American,215,4.8,Veg
+533,Burger,American,351,4.6,Veg
+534,Brownie,American,464,3.8,Veg
+535,Spring Roll,Indian,244,5,Veg
+536,Paneer Tikka,Indian,411,3.5,Veg
+537,Gulab Jamun,Chinese,240,3.6,Veg
+538,Burger,Italian,297,4.4,Veg
+539,Brownie,Chinese,399,4.3,Veg
+540,Burger,Indian,132,4.9,Veg
+541,Idli,Italian,238,4.1,Veg
+542,Noodles,Chinese,483,4.4,Veg
+543,Gulab Jamun,Chinese,328,3.9,Veg
+544,Biryani,Chinese,305,4.4,Non-Veg
+545,Soup,Indian,476,4.6,Veg
+546,Paneer Tikka,American,297,4.6,Veg
+547,Ice Cream,Indian,163,3.5,Veg
+548,Biryani,American,488,4.8,Non-Veg
+549,Dosa,Italian,236,3.7,Veg
+550,Samosa,Italian,267,3.8,Veg
+551,Ice Cream,American,404,4.8,Veg
+552,Paneer Tikka,Italian,265,5,Veg
+553,Ice Cream,Italian,342,4.3,Veg
+554,Samosa,Italian,199,4.2,Veg
+555,Fried Rice,Indian,476,4.3,Veg
+556,Pasta,Chinese,242,4.2,Veg
+557,Biryani,Indian,168,4.7,Non-Veg
+558,Pasta,Indian,272,3.6,Veg
+559,Burger,Indian,333,4.5,Veg
+560,Rasgulla,Chinese,384,4.5,Veg
+561,Salad,Chinese,325,4.2,Veg
+562,Fried Rice,Chinese,112,4.6,Veg
+563,Salad,Italian,188,4.3,Veg
+564,Dosa,Chinese,219,5,Veg
+565,Pasta,Italian,418,4,Veg
+566,Idli,Chinese,216,4.7,Veg
+567,Fried Rice,American,338,3.8,Veg
+568,Biryani,Italian,409,3.8,Non-Veg
+569,Dosa,Italian,283,4.4,Veg
+570,Gulab Jamun,Chinese,493,3.9,Veg
+571,Dosa,Italian,289,4.9,Veg
+572,Idli,Indian,475,4.7,Veg
+573,Brownie,American,489,3.7,Veg
+574,Fried Rice,Italian,285,4.4,Veg
+575,Spring Roll,Indian,314,3.9,Veg
+576,Dosa,Indian,403,4.3,Veg
+577,Pasta,American,156,3.8,Veg
+578,Samosa,Italian,436,4.5,Veg
+579,Chowmein,Chinese,276,4.8,Veg
+580,Dosa,Indian,283,3.7,Veg
+581,Spring Roll,Italian,434,3.7,Veg
+582,Brownie,Italian,350,3.6,Veg
+583,Burger,Italian,219,4.2,Veg
+584,Dosa,American,366,3.6,Veg
+585,Salad,Indian,166,4,Veg
+586,Soup,American,279,3.8,Veg
+587,Chowmein,American,281,4.6,Veg
+588,Ice Cream,American,301,5,Veg
+589,Soup,Chinese,338,3.7,Veg
+590,Salad,Italian,415,4.8,Veg
+591,Samosa,Italian,206,4.7,Veg
+592,Idli,American,271,4,Veg
+593,Soup,Italian,207,3.8,Veg
+594,Fried Rice,American,445,4.5,Veg
+595,Brownie,Chinese,366,4.6,Veg
+596,Paneer Tikka,Italian,212,3.7,Veg
+597,Samosa,Italian,499,3.6,Veg
+598,Pasta,Chinese,353,5,Veg
+599,Burger,American,363,4.9,Veg
+600,Idli,Italian,477,4.3,Veg
+601,Brownie,American,126,4.2,Veg
+602,Rasgulla,Italian,423,3.8,Veg
+603,Noodles,Italian,332,3.7,Veg
+604,Pizza,American,365,4.4,Veg
+605,Chowmein,American,428,4.1,Veg
+606,Pizza,Italian,488,3.7,Veg
+607,Biryani,Chinese,451,3.8,Non-Veg
+608,Salad,Italian,236,4,Veg
+609,Idli,Indian,182,4.3,Veg
+610,Idli,Chinese,443,4.7,Veg
+611,Gulab Jamun,Italian,219,4.5,Veg
+612,Chowmein,Chinese,148,4.4,Veg
+613,Ice Cream,Indian,298,4.6,Veg
+614,Rasgulla,Indian,497,4.6,Veg
+615,Pasta,American,155,3.7,Veg
+616,Noodles,Chinese,359,4.4,Veg
+617,Samosa,Chinese,130,4.9,Veg
+618,Salad,Indian,394,3.6,Veg
+619,Chowmein,Indian,388,4.5,Veg
+620,Paneer Tikka,Indian,306,4.6,Veg
+621,Burger,Italian,147,4.1,Veg
+622,Brownie,Italian,282,4.2,Veg
+623,Butter Chicken,American,104,4.4,Non-Veg
+624,Biryani,Chinese,341,4.6,Non-Veg
+625,Salad,American,411,4.6,Veg
+626,Pasta,American,324,4.4,Veg
+627,Pasta,American,297,4.1,Veg
+628,Noodles,American,435,4.3,Veg
+629,Salad,American,357,3.7,Veg
+630,Pasta,Italian,371,4.3,Veg
+631,Chowmein,Chinese,269,3.9,Veg
+632,Soup,American,347,4.9,Veg
+633,Brownie,Italian,210,4.1,Veg
+634,Burger,American,294,5,Veg
+635,Fried Rice,Italian,368,4,Veg
+636,Dosa,Indian,255,4.6,Veg
+637,Dosa,Chinese,134,4.8,Veg
+638,Brownie,Italian,253,4.4,Veg
+639,Dosa,Indian,126,4,Veg
+640,Rasgulla,Indian,370,4.8,Veg
+641,Sandwich,American,212,4.9,Veg
+642,Rasgulla,Italian,152,4.7,Veg
+643,Pizza,American,415,4.9,Veg
+644,Burger,Chinese,304,3.8,Veg
+645,Pizza,Indian,149,4.2,Veg
+646,Pasta,Italian,216,4,Veg
+647,Burger,Italian,330,4.1,Veg
+648,Chowmein,Indian,187,4.7,Veg
+649,Butter Chicken,American,343,3.9,Non-Veg
+650,Idli,American,274,3.5,Veg
+651,Rasgulla,Italian,460,4.5,Veg
+652,Rasgulla,Indian,318,4.7,Veg
+653,Ice Cream,Italian,446,4.2,Veg
+654,Pasta,Indian,282,3.6,Veg
+655,Samosa,Italian,382,4.2,Veg
+656,Dosa,Chinese,205,3.6,Veg
+657,Samosa,Italian,224,4.2,Veg
+658,Brownie,American,273,3.5,Veg
+659,Dosa,Chinese,222,4.9,Veg
+660,Idli,Indian,467,4,Veg
+661,Burger,Indian,303,4.2,Veg
+662,Salad,Chinese,281,4,Veg
+663,Soup,Italian,188,4.8,Veg
+664,Salad,American,356,3.8,Veg
+665,Ice Cream,Italian,290,4.8,Veg
+666,Ice Cream,American,129,4.6,Veg
+667,Pasta,American,262,4.8,Veg
+668,Gulab Jamun,Italian,372,3.9,Veg
+669,Spring Roll,Italian,195,4.1,Veg
+670,Ice Cream,Chinese,110,3.6,Veg
+671,Chowmein,Indian,103,4.9,Veg
+672,Butter Chicken,Indian,391,4.7,Non-Veg
+673,Burger,Italian,108,4.1,Veg
+674,Pasta,Chinese,455,3.7,Veg
+675,Butter Chicken,Indian,403,4.9,Non-Veg
+676,Ice Cream,Indian,139,4.8,Veg
+677,Salad,Chinese,154,4.2,Veg
+678,Gulab Jamun,American,140,4.9,Veg
+679,Ice Cream,Indian,429,4.6,Veg
+680,Gulab Jamun,Italian,500,3.5,Veg
+681,Biryani,American,228,3.7,Non-Veg
+682,Biryani,Indian,493,4.4,Non-Veg
+683,Idli,American,365,3.8,Veg
+684,Spring Roll,American,500,4.4,Veg
+685,Chowmein,Italian,420,4.8,Veg
+686,Ice Cream,Italian,475,4.3,Veg
+687,Noodles,American,307,3.7,Veg
+688,Idli,Indian,381,3.8,Veg
+689,Soup,American,290,4.6,Veg
+690,Noodles,Italian,383,3.7,Veg
+691,Fried Rice,Indian,346,4.3,Veg
+692,Sandwich,Chinese,223,4.1,Veg
+693,Ice Cream,Italian,452,4.3,Veg
+694,Butter Chicken,Italian,141,4,Non-Veg
+695,Biryani,Italian,187,4.2,Non-Veg
+696,Chowmein,Chinese,493,4.2,Veg
+697,Brownie,American,344,4.1,Veg
+698,Burger,Chinese,349,4.5,Veg
+699,Noodles,American,238,4.7,Veg
+700,Biryani,Chinese,390,4.3,Non-Veg
+701,Samosa,American,220,4.7,Veg
+702,Butter Chicken,Italian,412,4.7,Non-Veg
+703,Butter Chicken,Italian,300,4.8,Non-Veg
+704,Dosa,Indian,238,4.5,Veg
+705,Noodles,Italian,484,3.8,Veg
+706,Noodles,Chinese,392,4.9,Veg
+707,Brownie,Italian,120,3.5,Veg
+708,Brownie,Indian,169,4,Veg
+709,Butter Chicken,Chinese,306,3.7,Non-Veg
+710,Dosa,American,123,4,Veg
+711,Pasta,Italian,110,4.4,Veg
+712,Burger,Italian,355,3.7,Veg
+713,Fried Rice,Indian,178,4.6,Veg
+714,Paneer Tikka,Italian,395,4.8,Veg
+715,Paneer Tikka,Indian,329,5,Veg
+716,Fried Rice,Chinese,498,3.7,Veg
+717,Pasta,American,161,4.4,Veg
+718,Idli,American,139,3.8,Veg
+719,Spring Roll,Italian,290,4.2,Veg
+720,Chowmein,Chinese,182,4.4,Veg
+721,Pizza,American,198,4.7,Veg
+722,Paneer Tikka,Indian,263,4,Veg
+723,Pizza,Italian,426,4.1,Veg
+724,Sandwich,Indian,165,4.1,Veg
+725,Ice Cream,Italian,463,4.9,Veg
+726,Pasta,Indian,155,3.6,Veg
+727,Rasgulla,American,296,4.8,Veg
+728,Paneer Tikka,Italian,318,4.7,Veg
+729,Brownie,Chinese,304,3.6,Veg
+730,Gulab Jamun,Indian,104,4.9,Veg
+731,Butter Chicken,American,358,4.1,Non-Veg
+732,Rasgulla,Indian,175,4.2,Veg
+733,Fried Rice,Indian,167,4.9,Veg
+734,Soup,American,170,4.4,Veg
+735,Burger,Chinese,447,5,Veg
+736,Dosa,Chinese,102,3.7,Veg
+737,Biryani,Indian,100,3.6,Non-Veg
+738,Paneer Tikka,American,382,3.9,Veg
+739,Biryani,Italian,411,3.6,Non-Veg
+740,Sandwich,Italian,243,4.8,Veg
+741,Rasgulla,Chinese,218,4.1,Veg
+742,Noodles,Indian,199,4.2,Veg
+743,Chowmein,American,237,3.6,Veg
+744,Rasgulla,American,200,4.5,Veg
+745,Idli,Indian,211,4.4,Veg
+746,Spring Roll,American,158,4.7,Veg
+747,Fried Rice,Italian,469,4.8,Veg
+748,Pizza,Italian,284,4.4,Veg
+749,Paneer Tikka,Indian,290,4.6,Veg
+750,Pasta,Indian,155,4,Veg
+751,Samosa,American,317,3.7,Veg
+752,Gulab Jamun,Italian,233,4.2,Veg
+753,Noodles,American,123,4.2,Veg
+754,Gulab Jamun,Chinese,422,4.6,Veg
+755,Pasta,Indian,278,4.7,Veg
+756,Pizza,American,303,4.9,Veg
+757,Rasgulla,Indian,415,4.3,Veg
+758,Noodles,Chinese,372,4,Veg
+759,Biryani,American,148,4.7,Non-Veg
+760,Noodles,Indian,251,4.7,Veg
+761,Soup,Italian,312,4.3,Veg
+762,Paneer Tikka,Indian,497,3.9,Veg
+763,Paneer Tikka,Chinese,418,3.8,Veg
+764,Ice Cream,American,158,4.1,Veg
+765,Brownie,American,468,4.3,Veg
+766,Pasta,American,296,4.7,Veg
+767,Samosa,Italian,289,4.4,Veg
+768,Chowmein,Indian,219,4.6,Veg
+769,Butter Chicken,Indian,315,4.7,Non-Veg
+770,Samosa,Indian,365,4.3,Veg
+771,Paneer Tikka,Italian,232,4.7,Veg
+772,Salad,American,263,4.3,Veg
+773,Salad,Chinese,126,4.2,Veg
+774,Rasgulla,Indian,113,3.6,Veg
+775,Fried Rice,American,305,4.8,Veg
+776,Biryani,Italian,238,4.1,Non-Veg
+777,Biryani,American,400,4.7,Non-Veg
+778,Rasgulla,Indian,391,4.9,Veg
+779,Spring Roll,Indian,261,3.5,Veg
+780,Biryani,Indian,168,4,Non-Veg
+781,Salad,Indian,216,4.2,Veg
+782,Sandwich,American,296,5,Veg
+783,Pizza,Indian,379,4.3,Veg
+784,Butter Chicken,Indian,412,3.8,Non-Veg
+785,Gulab Jamun,Chinese,500,4.1,Veg
+786,Dosa,Chinese,442,4,Veg
+787,Samosa,Chinese,309,5,Veg
+788,Rasgulla,Italian,379,3.7,Veg
+789,Ice Cream,Italian,482,3.9,Veg
+790,Samosa,American,338,4.5,Veg
+791,Salad,Indian,452,3.6,Veg
+792,Chowmein,Indian,290,4.9,Veg
+793,Spring Roll,Italian,482,4,Veg
+794,Sandwich,Indian,240,4.6,Veg
+795,Paneer Tikka,Italian,469,4.6,Veg
+796,Butter Chicken,Indian,395,4.3,Non-Veg
+797,Sandwich,Italian,108,4.1,Veg
+798,Butter Chicken,American,153,4.4,Non-Veg
+799,Burger,Chinese,219,5,Veg
+800,Sandwich,Indian,225,4.5,Veg
+801,Noodles,Italian,243,4.7,Veg
+802,Ice Cream,American,355,4.3,Veg
+803,Pasta,Italian,169,3.8,Veg
+804,Salad,Italian,210,4.3,Veg
+805,Idli,American,184,4.1,Veg
+806,Gulab Jamun,American,310,4.8,Veg
+807,Paneer Tikka,American,481,3.5,Veg
+808,Soup,Chinese,451,4,Veg
+809,Ice Cream,Indian,170,4.1,Veg
+810,Pizza,Italian,186,4.8,Veg
+811,Gulab Jamun,Chinese,430,4.1,Veg
+812,Burger,Italian,426,3.6,Veg
+813,Burger,Indian,411,4.9,Veg
+814,Idli,Italian,386,3.7,Veg
+815,Pasta,American,356,3.8,Veg
+816,Spring Roll,Indian,308,4.2,Veg
+817,Samosa,Italian,202,4.9,Veg
+818,Pizza,American,386,4.4,Veg
+819,Pizza,Indian,226,3.6,Veg
+820,Butter Chicken,Chinese,159,4.5,Non-Veg
+821,Idli,Chinese,453,4.4,Veg
+822,Dosa,Chinese,184,3.5,Veg
+823,Brownie,Chinese,496,4.4,Veg
+824,Samosa,Chinese,210,4.1,Veg
+825,Spring Roll,Italian,171,4.4,Veg
+826,Noodles,Indian,299,4.2,Veg
+827,Samosa,Indian,351,3.9,Veg
+828,Dosa,Indian,334,4.5,Veg
+829,Spring Roll,Chinese,423,3.6,Veg
+830,Fried Rice,Chinese,494,4.5,Veg
+831,Rasgulla,American,464,3.6,Veg
+832,Biryani,Italian,157,3.5,Non-Veg
+833,Pizza,Italian,241,3.8,Veg
+834,Dosa,Indian,407,4.2,Veg
+835,Noodles,Indian,218,3.7,Veg
+836,Spring Roll,Chinese,309,4.2,Veg
+837,Dosa,Indian,486,4,Veg
+838,Paneer Tikka,Indian,152,3.7,Veg
+839,Pizza,Italian,418,4,Veg
+840,Pizza,Chinese,190,3.8,Veg
+841,Soup,Indian,353,3.8,Veg
+842,Rasgulla,Italian,205,4.9,Veg
+843,Samosa,Chinese,397,4,Veg
+844,Pizza,Chinese,237,3.8,Veg
+845,Ice Cream,Italian,414,3.9,Veg
+846,Brownie,Indian,448,4.9,Veg
+847,Rasgulla,Chinese,165,4,Veg
+848,Paneer Tikka,American,483,4.5,Veg
+849,Dosa,Italian,379,4,Veg
+850,Salad,Chinese,407,4.4,Veg
+851,Soup,Italian,452,4.2,Veg
+852,Fried Rice,Chinese,263,3.5,Veg
+853,Soup,Indian,481,4.7,Veg
+854,Gulab Jamun,Italian,441,4.7,Veg
+855,Rasgulla,Chinese,411,3.7,Veg
+856,Burger,Chinese,143,4.9,Veg
+857,Brownie,Chinese,284,4.7,Veg
+858,Gulab Jamun,Indian,251,4.5,Veg
+859,Soup,Indian,253,4,Veg
+860,Sandwich,American,155,4.7,Veg
+861,Chowmein,Indian,317,4,Veg
+862,Spring Roll,Italian,262,3.6,Veg
+863,Soup,Chinese,264,4.7,Veg
+864,Gulab Jamun,Italian,193,4.3,Veg
+865,Paneer Tikka,Italian,194,4.7,Veg
+866,Brownie,Chinese,472,4.3,Veg
+867,Ice Cream,Indian,295,4.6,Veg
+868,Butter Chicken,American,386,4.4,Non-Veg
+869,Brownie,Chinese,174,3.9,Veg
+870,Pizza,Chinese,392,3.7,Veg
+871,Salad,Indian,465,5,Veg
+872,Brownie,American,328,4.6,Veg
+873,Rasgulla,Chinese,341,4.6,Veg
+874,Samosa,Chinese,499,4.4,Veg
+875,Noodles,American,358,4.6,Veg
+876,Chowmein,Chinese,212,4,Veg
+877,Chowmein,Chinese,144,4.5,Veg
+878,Pizza,Indian,284,3.9,Veg
+879,Ice Cream,Chinese,498,4.5,Veg
+880,Fried Rice,Chinese,454,3.7,Veg
+881,Fried Rice,Chinese,342,4,Veg
+882,Samosa,Indian,207,3.9,Veg
+883,Dosa,American,468,4.4,Veg
+884,Fried Rice,American,287,4.3,Veg
+885,Samosa,Italian,476,4.5,Veg
+886,Pizza,Chinese,136,4.3,Veg
+887,Samosa,Italian,452,3.6,Veg
+888,Idli,Indian,379,3.8,Veg
+889,Idli,Indian,229,4.5,Veg
+890,Paneer Tikka,Italian,470,4.2,Veg
+891,Salad,American,458,3.8,Veg
+892,Noodles,Chinese,302,3.9,Veg
+893,Pizza,Italian,395,4.7,Veg
+894,Pasta,Chinese,472,3.9,Veg
+895,Pizza,American,319,4,Veg
+896,Salad,American,109,3.6,Veg
+897,Burger,Indian,130,4.7,Veg
+898,Gulab Jamun,Italian,235,4.9,Veg
+899,Soup,Italian,243,4.1,Veg
+900,Ice Cream,Italian,206,4.6,Veg
+901,Idli,Chinese,418,4.3,Veg
+902,Chowmein,Italian,101,4.4,Veg
+903,Pizza,Indian,100,4.2,Veg
+904,Idli,Italian,422,3.8,Veg
+905,Gulab Jamun,American,155,4.2,Veg
+906,Biryani,Italian,190,3.7,Non-Veg
+907,Biryani,Indian,162,4.3,Non-Veg
+908,Paneer Tikka,American,138,5,Veg
+909,Pizza,Indian,408,4.3,Veg
+910,Butter Chicken,Indian,397,4.7,Non-Veg
+911,Pizza,Indian,468,4.7,Veg
+912,Biryani,American,240,4.3,Non-Veg
+913,Butter Chicken,Italian,273,4.6,Non-Veg
+914,Pasta,American,131,4.6,Veg
+915,Idli,Italian,342,3.6,Veg
+916,Biryani,Indian,125,4.1,Non-Veg
+917,Idli,Chinese,342,4.5,Veg
+918,Paneer Tikka,Chinese,273,4.2,Veg
+919,Brownie,Chinese,165,4.7,Veg
+920,Sandwich,Chinese,176,3.5,Veg
+921,Idli,Indian,198,3.7,Veg
+922,Noodles,Chinese,230,3.6,Veg
+923,Biryani,Indian,120,4.7,Non-Veg
+924,Butter Chicken,American,182,4.8,Non-Veg
+925,Pizza,Italian,211,4.8,Veg
+926,Biryani,American,277,4.3,Non-Veg
+927,Ice Cream,Italian,465,4.4,Veg
+928,Paneer Tikka,American,138,4.5,Veg
+929,Pizza,American,145,4.2,Veg
+930,Idli,Indian,458,4.2,Veg
+931,Fried Rice,Italian,259,4.8,Veg
+932,Fried Rice,American,242,4.7,Veg
+933,Rasgulla,American,458,4.7,Veg
+934,Biryani,Chinese,458,4.7,Non-Veg
+935,Burger,Chinese,442,4,Veg
+936,Samosa,Italian,203,4.1,Veg
+937,Fried Rice,Italian,365,5,Veg
+938,Salad,Chinese,457,4.4,Veg
+939,Fried Rice,Chinese,277,4.2,Veg
+940,Ice Cream,American,230,4.9,Veg
+941,Gulab Jamun,American,207,3.8,Veg
+942,Butter Chicken,American,175,4.7,Non-Veg
+943,Sandwich,American,256,3.8,Veg
+944,Salad,Italian,472,4.8,Veg
+945,Paneer Tikka,Indian,325,4.2,Veg
+946,Brownie,Indian,165,4.1,Veg
+947,Spring Roll,Italian,216,3.7,Veg
+948,Idli,Indian,484,4.2,Veg
+949,Gulab Jamun,American,425,4.8,Veg
+950,Rasgulla,American,205,3.8,Veg
+951,Butter Chicken,Indian,340,4.9,Non-Veg
+952,Biryani,Italian,166,3.9,Non-Veg
+953,Biryani,Italian,107,4.3,Non-Veg
+954,Sandwich,Chinese,439,4,Veg
+955,Pizza,Italian,498,4.7,Veg
+956,Pizza,Chinese,261,4.2,Veg
+957,Pasta,American,179,4.8,Veg
+958,Pasta,Indian,168,4.6,Veg
+959,Gulab Jamun,Chinese,173,4,Veg
+960,Pizza,Italian,201,3.5,Veg
+961,Pizza,Indian,428,4.4,Veg
+962,Dosa,Italian,478,4.3,Veg
+963,Brownie,Italian,155,4.3,Veg
+964,Paneer Tikka,Indian,316,3.6,Veg
+965,Rasgulla,American,417,4.5,Veg
+966,Soup,Chinese,294,3.8,Veg
+967,Samosa,American,176,4.3,Veg
+968,Biryani,Italian,424,3.8,Non-Veg
+969,Dosa,American,301,4.5,Veg
+970,Chowmein,Indian,135,4.2,Veg
+971,Sandwich,Indian,451,4.2,Veg
+972,Gulab Jamun,Italian,119,3.8,Veg
+973,Salad,American,268,3.6,Veg
+974,Noodles,American,303,4.9,Veg
+975,Biryani,Indian,269,3.8,Non-Veg
+976,Rasgulla,Italian,133,4.1,Veg
+977,Noodles,American,406,4.9,Veg
+978,Biryani,Italian,497,4.6,Non-Veg
+979,Noodles,Italian,449,3.6,Veg
+980,Biryani,American,228,4.4,Non-Veg
+981,Paneer Tikka,Indian,289,3.5,Veg
+982,Fried Rice,Chinese,235,4.6,Veg
+983,Brownie,American,485,4.5,Veg
+984,Soup,Italian,442,4.8,Veg
+985,Soup,Indian,110,4.9,Veg
+986,Rasgulla,American,406,3.5,Veg
+987,Spring Roll,Italian,480,4.4,Veg
+988,Paneer Tikka,American,397,4.9,Veg
+989,Pizza,Indian,198,4.6,Veg
+990,Sandwich,Indian,115,4.4,Veg
+991,Spring Roll,American,387,3.8,Veg
+992,Chowmein,Indian,398,3.8,Veg
+993,Dosa,Indian,498,4.3,Veg
+994,Butter Chicken,Indian,497,4.8,Non-Veg
+995,Pasta,Indian,371,4.3,Veg
+996,Sandwich,American,169,3.5,Veg
+997,Idli,Indian,485,4.5,Veg
+998,Noodles,Italian,275,4.7,Veg
+999,Burger,American,327,4.3,Veg
+1000,Noodles,Italian,478,4.4,Veg
